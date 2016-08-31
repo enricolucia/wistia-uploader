@@ -1,2 +1,2 @@
 # Wistia uploader angular directive
-- Demo at 
+- Demo at https://rocky-savannah-47541.herokuapp.com/
